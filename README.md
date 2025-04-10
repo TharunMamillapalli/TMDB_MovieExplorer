@@ -19,7 +19,7 @@ TMDB Movie Explorer is an Android application that allows users to browse popula
 
 | Home Screen | Movies | TV Shows |
 |-------------|--------|----------|
-| ![Home](app/Screenshots/home.png) | ![Movies](app/Screenshots/Movies.png) | ![TV Shows](app/Screenshots/TvShow.png) |
+| ![Home](app/Screenshots/home.png) | ![Movies](app/Screenshots/movies.png) | ![TV Shows](app/Screenshots/TvShow.png) |
 
 | Artists |
 |---------|
